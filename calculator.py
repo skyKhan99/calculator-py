@@ -1,5 +1,4 @@
 import tkinter as tk
-import urllib.request
 from tkinter import messagebox
 from tkinter import ttk
 
