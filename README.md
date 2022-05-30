@@ -1,6 +1,6 @@
 # calculator-py
 Calculator With UI, writed with Pyhton.
-![Screenshot](calculator.png)
+![Screenshot](calculator_ss.png)
 
 Codes:
 
